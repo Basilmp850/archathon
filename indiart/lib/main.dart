@@ -2,13 +2,14 @@
 
 //Team for archathon
 
-import 'package:firebase_core/firebase_core.dart';
+// import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:insta_c/responsive/responsive_layout.dart';
-import 'package:insta_c/responsive/web_screen_layout.dart';
-import 'package:insta_c/screens/login_screen.dart';
-import 'package:insta_c/utils/colors.dart';
-import 'package:insta_c/responsive/mobile_screen_layout.dart';
+import 'package:indiart/utils/colors.dart';
+// import 'package:indiart/responsive/responsive_layout.dart';
+// import 'package:indiart/responsive/web_screen_layout.dart';
+
+
+import 'responsive/mobile_screen_layout.dart';
 
 void main() async {
   // WidgetsFlutterBinding.ensureInitialized();
