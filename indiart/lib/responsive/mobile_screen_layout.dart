@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:insta_c/utils/colors.dart';
-import 'package:insta_c/utils/global_variable.dart';
+import 'package:indiart/utils/colors.dart';
+import 'package:indiart/utils/global_variable.dart';
 
 class MobileScreenLayout extends StatefulWidget {
   MobileScreenLayout({Key? key}) : super(key: key);
